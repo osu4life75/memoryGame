@@ -25,8 +25,8 @@ const cardArray = [
     },
     {
         name: "blank",
-        Image: "images/blank
-        .png",
+        Image: "images/blank.png",
+        
     },
     {
         name: "hotdog",
